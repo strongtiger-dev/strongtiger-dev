@@ -8,12 +8,14 @@ Familiar with ML techniques such as gradient boosting, deep neural nets, and onl
 
 ## 🧠 Key Skills
 
-- **Languages:** Java (8–21), C++, Python, Rust, C#, SQL
-- **Systems:** Low-latency execution engines, lock-free queues, real-time data processing
-- **Trading Infra:** FIX/ITCH/OUCH, Kafka, Redis Streams, Docker, Kubernetes
-- **Quant Techniques:** Monte Carlo Simulation, Time-Series Forecasting, Dynamic Programming, Event-Driven Simulation
-- **Monitoring:** JUnit, async-profiler, JFR, custom diagnostics, CI/CD pipelines
-
+- **Languages:** C++, Python, Java, Rust, Go, C#, R, SQL, MATLAB, Bash/Shell\
+- **Framework & libraries:** Pandas, Polars, PySpark, NumPy, SciPy, Scikit-learn, PyTorch, TensorFlow, CatBoost, StatsModels, QuantLib, TA-Lib, ZeroMQ, gRPC, Boost
+- **Trading system & protocols:**  MetaTrader 4/5 (MQL4/MQL5), FIX/ITCH/OUCH, Interactive Brokers API, TradingView Webhooks, REST/WebSocket APIs, Binance API, QuantConnect, AlgoTrader, cTrader
+- **Real-Time & Low-Latency Systems:** High-Frequency Trading (HFT), Ultra Low-Latency Architecture, Multi-threading, Lock-Free Queues, Shared Memory (shm), Asynchronous Programming (asyncio, Boost.Asio)
+- **Market data & infra:** Streaming Tick Data, Order Book Modeling (LOB), Market Microstructure, Order Flow Analysis, Real-Time Feed Handlers, Tick Aggregation, Historical Market Replay
+- **Quantitative & Statistical Methods:** Time-Series Modeling, Cointegration, Statistical Arbitrage, Machine Learning, Reinforcement Learning, Kalman Filters, Hidden Markov Models, Monte Carlo Simulation, PCA, Signal Processing, News Sentiment Analysis
+- **Risk Management & strategy:** Stop-Loss Algorithms, Dynamic Position Sizing, Volatility-Based Risk Control, Strategy Backtesting (custom engines, Backtrader, PyAlgoTrade), Walk-Forward Testing, Sharpe/Sortino/Max Drawdown Analysis
+- **Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Bitbucket Pipelines, Git, CI/CD Automation 
 ---
 
 ## 💼 Career Highlights
