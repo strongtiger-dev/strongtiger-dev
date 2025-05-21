@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Benjamin
 
-I'm an experienced software engineer and quantitative developer with 10+ years of building high-performance, real-time systems for trading and financial markets. I specialize in **core Java**, **multi-threaded low-latency architecture**, and **advanced algorithm design** for algorithmic trading and market microstructure research.
+Senior Quantitative Developer with over 10 years of experience designing and implementing low-latency, high-throughput trading systems across equities, FX, futures, options and crypto. Adept at transforming complex quantitative models into production-ready, scalable strategies using C++, Java, Python, and C#.
+Deep expertise in real-time data processing, signal generation, and execution infrastructure, with hands-on implementation of statistical arbitrage, market-making, and momentum strategies. Proficient in advanced mathematical modeling, stochastic calculus, optimization, and time-series analysis.
+Familiar with ML techniques such as gradient boosting, deep neural nets, and online learning, with practical deployment of models for alpha generation, prediction, and anomaly detection. Strong command of numerical libraries (NumPy, Pandas, Scikit-learn, TensorFlow) and experience building research pipelines in collaboration with PMs and quants.
 
 ---
 
