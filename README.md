@@ -54,8 +54,6 @@ C#/Python bots for crypto and sportsbook arbitrage with REST/FIX APIs and fast d
 ---
 
 ## 📫 Connect with Me
-
-- LinkedIn: [(https://www.linkedin.com/in/benjamin-paddock-4a3326365)]
 - Email: benj.pdk@gmail.com
 
 ---
